@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.header{
+	width:100vw;
+	color:white;
+	background-color:#011e29;
+	text-align:center;
+	height:50px;
+	padding:5px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.latest-news-section {
+	background-color:white;
+	border-radius:10px;
+	width:200px;
+}
+.parent{
+	display:flex;
+	justify-content:space-around;
+	
+}
