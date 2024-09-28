@@ -16,10 +16,18 @@ body{
 .latest-news-section {
 	background-color:white;
 	border-radius:10px;
-	width:200px;
+	width:70%;
 }
 .parent{
 	display:flex;
-	justify-content:space-around;
 	
+}
+.pictorial-news-section{
+	display:flex;
+	flex-direction:column;
+	background-color:white;
+	width:20%;
+}
+img{
+	height:50px
 }
